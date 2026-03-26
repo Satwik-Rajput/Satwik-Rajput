@@ -30,28 +30,13 @@ Machine Learning Basics
 Python Libraries (NumPy, Pandas)
 
 
-📌 Projects
-🔹 Coming Soon...
-(You can add your projects here as you build them. Example below)
-
-🔸 Project Name - Short description
-🔸 Project Name - Short description
-
 
 📊 GitHub Stats
 
 
 
-🏆 Achievements
-
 🌱 Started my coding journey in 2025
 🚧 Continuously learning and improving
-
-
-📫 Connect With Me
-
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-📧 Email: your-email@example.com
 
 
 ⚡ Fun Fact
