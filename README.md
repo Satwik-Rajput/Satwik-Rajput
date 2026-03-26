@@ -1,4 +1,4 @@
-#👋 Hi, I'm Satwik Singh
+👋 Hi, I'm Satwik Singh
 🎓 Computer Science Engineering Student | 💻 Aspiring AI/ML Engineer | 🚀 Building Projects & Learning Daily
 
 🧠 About Me
