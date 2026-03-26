@@ -3,7 +3,7 @@
 
 🧠 About Me
 
-🎓 2nd Semester CSE Student
+🎓 CSE Student
 🤖 Passionate about Artificial Intelligence & Machine Learning
 💡 Curious about how systems think, learn, and evolve
 📈 Currently focused on building strong fundamentals in programming and problem solving
